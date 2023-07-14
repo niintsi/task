@@ -1,0 +1,72 @@
+body{
+    font-family: 'Fasthand', cursive;
+    font-family: 'Inter', sans-serif;
+    background-color: white;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.link {
+    color: red;}
+.conteiner{
+    width: 100%;
+    max-width: 1180px;
+    padding: 0 15px;
+    margin: 0 130px;
+    background-color: white;
+    height:96px;
+}
+.logo{
+    width: 180px;
+    height: 96px;
+    
+}
+/***** hederi *******/
+.header{
+    font-size: 20px;
+    background-color:white;
+    margin: 0 130px;
+.menu-list{
+    list-style: none;
+    display: flex;
+   
+}
+.menu-list-link{
+     font-family: 'Inter', sans-serif;
+     font-size: 
+     20px;
+     color: 
+     #2414DB;
+     text-decoration: none;
+}
+.active-link{
+    color: red;
+    text-decoration: none;
+}
+
+.header-inner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+.menu-list-item{
+    margin: 0 61px;
+}
+.header {
+    margin: 0 130px;
+}
+
+.surati-1{
+    width: 1440px;
+    height: 478px;
+}
+.main-text{
+    text-decoration: none;
+    color: blue;
+}
