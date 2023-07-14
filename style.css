@@ -29,7 +29,9 @@ body{
 .header{
     font-size: 20px;
     background-color:white;
-    margin: 0 130px;}
+    margin: 0 0 0 500px;
+    
+}
 .menu-list{
     list-style: none;
     display: flex;
@@ -71,17 +73,57 @@ body{
     height: 478px;
 }
 
+
 .Welcome{
+    margin: 120px 0 0 290px;
+    font-size: 36px;
     color: #17326E;
 }
-.teqsti {
+.teqsti{
+    margin: 24px 0 0 290px;
+    font-size: 20px;
     color: #090346;
 }
-.Welcome{
-    margin: 120px 0 0 130px;
+.about{
+    margin: 120px 0 0 290px;
     font-size: 36px;
+    color: #17326E;
 }
-.teqsti{
-    margin: 24px 0 0 130px;
+.teqsti-2{
+    margin: 24px 0 0 290px;
     font-size: 20px;
+    color: #090346;
+
+}
+.surati-3{
+    width: 1440px;
+    height: 478px;
+}
+.contact{
+    margin: 120px 0 0 290px;
+    font-size: 36px;
+    color: #17326E;
+}
+.teqsti-3{
+    margin: 24px 0 0 290px;
+    font-size: 20px;
+    color: #17326E;
+}
+.foni{
+    width: 1440px;
+    height: 439px;
+    margin: 120px;
+}
+.foter {
+    width: 1440px;
+    height: 161px;
+}
+.foni-2{
+    height: 516px;
+    margin: 120px;
+}
+.foni-3{
+    height: 546px;
+    margin: 120px;
+
 }
