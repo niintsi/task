@@ -1,0 +1,209 @@
+body{
+    font-family: 'Fasthand', cursive;
+    font-family: 'Inter', sans-serif;
+    background-color: white;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.link {
+    color: red;}
+.conteiner{
+    width: 100%;
+    max-width: 1180px;
+    padding: 0 15px;
+    margin: 0 130px;
+    background-color: white;
+    height:96px;
+}
+.logo{
+    width: 180px;
+    height: 96px;
+    
+}
+/***** hederi *******/
+.header{
+    font-size: 20px;
+    background-color:white;
+    margin: 0 0 0 500px;
+    
+}
+.menu-list{
+    list-style: none;
+    display: flex;
+   
+}
+.menu-list-link{
+     font-family: 'Inter', sans-serif;
+     font-size: 
+     20px;
+     color: 
+     #2414DB;
+     text-decoration: none;
+}
+.active-link{
+    color: red;
+    text-decoration: none;
+}
+
+.header-inner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+.menu-list-item{
+    margin: 0 61px;
+}
+.header {
+    margin: 0 130px;
+}
+
+.surati-1{
+    width: 1440px;
+    height: 478px;
+}
+.surati-2{
+    width: 1440px;
+    height: 478px;
+}
+
+
+.Welcome{
+    margin: 120px 0 0 290px;
+    font-size: 36px;
+    color: #17326E;
+}
+.teqsti{
+    margin: 24px 0 0 290px;
+    font-size: 20px;
+    color: #090346;
+}
+.about{
+    margin: 120px 0 0 290px;
+    font-size: 36px;
+    color: #17326E;
+}
+.teqsti-2{
+    margin: 24px 0 0 290px;
+    font-size: 20px;
+    color: #090346;
+
+}
+.surati-3{
+    width: 1440px;
+    height: 478px;
+}
+.contact{
+    margin: 120px 0 0 290px;
+    font-size: 36px;
+    color: #17326E;
+}
+.teqsti-3{
+    margin: 24px 0 0 290px;
+    font-size: 20px;
+    color: #17326E;
+}
+.foni{
+    width: 1440px;
+    height: 439px;
+    margin: 120px;
+}
+.foter {
+    width: 1440px;
+    height: 161px;
+}
+.foni-2{
+    height: 516px;
+    margin: 120px;
+}
+.foni-3{
+    height: 546px;
+    margin: 120px;
+
+}
+.perent {
+    background-color: 
+    #EBEBF0;
+    height: 
+    439px;
+    width: 
+    1440px;
+    display: flex;
+    align-items: center;
+    justify-content: space- around ;
+}
+.child{
+    width: 380px;
+    height: 197px;
+ 
+}
+.child-1{
+    margin: 0 0 0 130px;
+}
+.child-3 {
+    margin: 0 130px 0 0 ;
+}
+.child-2{
+    margin: 0 20px 0 20px;}
+.main-text{
+    margin: 120px 530px 120px 130px;
+
+}
+.footer-perent{
+    background-color: 
+    #19126B;
+    width: 1440px;
+    height: 
+    161px;
+    display: flex;
+    align-items: center;
+    Justify-content: firs baseline ;
+  
+}
+.childfot {
+    width: 60px;
+    height: 60px;}
+Ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1180px;
+    height: 
+    96px;
+ 
+    margin: 0 130px 0 130px;
+}
+header ul{
+    display: flex;
+}
+header .elementi-2 {
+    margin: 0 121px;
+}
+.feri{
+    color: 
+    #2414DB;
+    font-size: 20px;
+
+}
+.active-link{
+    color: red;
+    font-size: 20px;
+}
+footer{
+    background-color: #090346;
+    height: 
+    161px;
+    width:1440px ;
+}
